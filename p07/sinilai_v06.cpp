@@ -1,7 +1,7 @@
 // SiNilai v0.6: v0.5 yang tangguh terhadap masukan salah. Dibangun di atas v0.5 (laporan kelas).
 // Yang baru: angka dibaca dengan aman (cin.fail, clear, ignore), nama divalidasi dan dirapikan
 // huruf per huruf. Perhatikan: pola pembacaan aman ditulis berulang untuk empat komponen;
-// itu sengaja, supaya di Pertemuan 9 kamu merasakan sendiri gunanya fungsi.
+// itu sengaja, supaya di Pertemuan 9 kamu merasakan sendiri gunanya fungsi..
 #include <algorithm>
 #include <cctype>
 #include <iomanip>
