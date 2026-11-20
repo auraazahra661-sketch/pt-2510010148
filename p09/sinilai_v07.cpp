@@ -1,6 +1,6 @@
 // SiNilai v0.7: program v0.6 yang dipecah menjadi sembilan fungsi tanpa mengubah perilakunya.
 // Data berpindah antarfungsi lewat parameter dan return. Variabel global tidak dipakai;
-// yang ada di luar fungsi hanyalah konstanta bobot.
+// yang ada di luar fungsi hanyalah konstanta bobot..
 #include <cctype>
 #include <iomanip>
 #include <iostream>
